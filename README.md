@@ -24,7 +24,9 @@ sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It co
 
 sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-To predict:- Global Active Power.
+
+### Goals
+The focus of this analysis will be on global_active_power: the total active power consumed by the household (kilowatts).
 
 ### Visualization
 Perform descriptive analytics on the global_active_power variable
@@ -39,8 +41,7 @@ Linear Regression (perfomed only as an exercise - not applicable to this dataset
 Seasonal AutoRegressive Integrated Moving Average (SARIMA)
 Prophet Forecasting Procedure
 
-Source - UCI
-http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
+
 
 
 
